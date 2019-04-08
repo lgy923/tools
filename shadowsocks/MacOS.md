@@ -2,7 +2,7 @@
 
 <h3>1、下载Mac版本的ShadowsocksX</h3>
 
-From <a href="<https://github.com/shadowsocks/ShadowsocksX-NG/releases/>">here</a> （下载最新版）
+From <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/">here</a> （下载最新版）
 
 ![](shadowsocks_img/9.png)
 
